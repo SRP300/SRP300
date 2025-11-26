@@ -1,6 +1,7 @@
 ## 👋 Hi there , Im Shrey Patel
 
 I am a student at the University of Maryland, Baltimore county majoring in Public Health- Health administration with minors in information systems and management and a certificate in business analytics. 
+
 About me
 🎓 UMBC student exploring systems analysis, management, and data-focused courses
 📊 Passionate about turning raw data into actionable insights
