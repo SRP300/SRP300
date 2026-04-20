@@ -6,25 +6,10 @@ About me
 
 🎓 UMBC student exploring systems analysis, management, and data-focused courses
 
-📊 Passionate about turning raw data into actionable insights
+📊 Automating Data Analysis across public health and govenment agencies 
 
-What I’m working on:
 
-📈 Building beginner data projects in Python (pandas, NumPy) to analyze real datasets and create visualizations
 
-💼 Preparing a portfolio for internships and entry-level roles in data analytics and health informatics.
-
-Current Project:
-
-🤖 Automating my files folder to organize specific file types into folders
-
-Skills and tools
-
-Languages: Python, SQL, (learning React).​
-
-Tools: Jupyter Notebook, VS Code, Git/GitHub, Google Colab.​
-
-Interests: Data analytics, AI/automation, machine learning, data science, business analytics.
 
 How to reach me:
 
