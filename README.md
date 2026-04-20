@@ -4,9 +4,9 @@ I am a student at the University of Maryland, Baltimore county majoring in Publi
 
 About me
 
-🎓 UMBC student exploring systems analysis, management, and data-focused courses
+🎓 UMBC student exploring systems analysis, AI automation, and data-driven methodologies in his education
 
-📊 Automating Data Analysis across public health and govenment agencies 
+📊 Automating Data Analysts across public health and govenment agencies 
 
 
 
